@@ -5,4 +5,5 @@ public interface TestInterface {
 	void update();
 	void delete();
 	void select();
+	void shufu();
 }
